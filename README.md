@@ -37,7 +37,7 @@ This project aims to classify weather conditions using a dataset that includes v
    - Create a DataFrame for better visualization.
    - Sort and print feature importances.
    - Visualize importance using a bar plot.
-7. **Conclusion**: Summary of findings and future work suggestions.
+7. **Conclusion**: Summary of findings.
 
 ## Code and Data Files
 - The main code can be found in the Jupyter Notebook file: **`weather_project.ipynb`**.
